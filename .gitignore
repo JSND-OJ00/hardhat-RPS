@@ -1,7 +1,13 @@
+.encryptedKey.json
 node_modules
 .env
-.prettierrc
-.prettierignore
+coverage
+coverage.json
+typechain
+
 #Hardhat files
 cache
 artifacts
+.DS_Store
+gas-report.txt
+deployments
